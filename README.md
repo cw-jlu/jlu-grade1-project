@@ -1,1 +1,1 @@
-# jlu-grade1-project
+# 吉林大学大一课设（c语言）
