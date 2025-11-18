@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/code/cpp/project/cnyz/manage_system_code/out/build/GCC 14.2.0 x86_64-w64-mingw32 (ucrt64)",
+  "command": "D:\\APPfile\\MSYS2\\ucrt64\\bin\\gcc.exe -ID:/code/cpp/project/cnyz/manage_system_code/include -g -o CMakeFiles\\final.dir\\最终整合版.c.obj -c D:\\code\\cpp\\project\\cnyz\\manage_system_code\\最终整合版.c",
+  "file": "D:\\code\\cpp\\project\\cnyz\\manage_system_code\\最终整合版.c",
+  "output": "CMakeFiles\\final.dir\\最终整合版.c.obj"
+}
+]
